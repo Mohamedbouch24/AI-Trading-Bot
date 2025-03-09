@@ -1,3 +1,1 @@
-# AI-Trading-Bot numpy  
-pandas  
-scikit-learn  
+# AI-Trading-Bot
